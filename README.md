@@ -8,7 +8,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
 
-[Live Demo](#) · [Notebook Walkthrough](#notebook) · [Report a Bug](#)
+[Live Demo](https://factory-reallocation-shipping-optimization-recommendation-0.streamlit.app) · [Notebook Walkthrough](#notebook) · [Report a Bug](#)
 
 ---
 
