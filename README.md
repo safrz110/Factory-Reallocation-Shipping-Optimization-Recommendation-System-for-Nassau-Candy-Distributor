@@ -27,8 +27,8 @@ It was built end-to-end — from data cleaning and feature engineering through m
 
 ## Demo
 
-> Add a screenshot or screen recording of the dashboard here, e.g.:
-> `![Dashboard preview](assets/dashboard-preview.png)`
+> [Add a screenshot or screen recording of the dashboard here, e.g.:](https://factory-reallocation-shipping-optimization-recommendation-0.streamlit.app)
+ 
 
 ## Key Features
 
